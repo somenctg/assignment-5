@@ -28,4 +28,3 @@ const displayMenus = meals => {
 
   });
 }
-const mealIngredient = 
