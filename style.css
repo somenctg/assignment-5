@@ -20,7 +20,18 @@
     right: 0;
     height: 100%;
 }
+#meal-container{
+  display:grid;
+  grid-template-columns:repeat(4,1fr) ;
+  padding:10px;
+}
+.meal-item img{
+
+    width: 250px;
    
 
-
-    
+  
+}
+.meal-text{
+  text-align:center;
+}
